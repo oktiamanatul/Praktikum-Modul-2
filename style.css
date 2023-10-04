@@ -1,0 +1,43 @@
+body{
+    background-color: antiquewhite;
+    background-image: url(https://i.pinimg.com/564x/f6/96/61/f696617f5e2eeea0f8a9b039a483c872.jpg);
+}
+h4{
+    color : grey;
+}
+/* h2.header{
+    color: green;
+} */
+.header{
+    font-size: 50px;
+    color : black;
+}
+p{
+    font-size: 20px;
+    color : rgb(33, 13, 51);
+}
+.PARAGRAF{
+    color : orange;
+}
+p strong{
+    color : rgba(170, 240, 8, 0.582);
+}
+p strong.bold{
+    color : black;
+}
+.uppercase{
+    text-transform: capitalize;
+    text-shadow: 2px 2px 5px red;
+    color: black;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+ul h5{
+    color : orange;
+    font-size: 50px;
+}
+ul li{
+    color :rgba(146, 209, 0, 0.582);
+    font-size: 30px;
+}
