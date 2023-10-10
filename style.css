@@ -2,15 +2,16 @@ body{
     background-color: antiquewhite;
     background-image: url(https://i.pinimg.com/564x/f6/96/61/f696617f5e2eeea0f8a9b039a483c872.jpg);
 }
-h4{
-    color : grey;
-}
+
 /* h2.header{
     color: green;
 } */
 .header{
     font-size: 50px;
     color : black;
+}
+h4{
+    color : grey;
 }
 p{
     font-size: 20px;
@@ -32,6 +33,10 @@ p strong.bold{
 }
 .lowercase{
     text-transform: lowercase;
+}
+#nama{
+    font-size: 30;
+    color : white;
 }
 ul h5{
     color : orange;
